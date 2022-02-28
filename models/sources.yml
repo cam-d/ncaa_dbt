@@ -1,0 +1,25 @@
+version: 2
+
+sources:
+  - name: ncaa
+    schema: kaggle_source
+    database: ncaa-342512
+    tables:
+      - name: cities
+      - name: conferences
+      - name: mconferencetourneygames
+      - name: mgamecities
+      - name: mmasseyordinals
+      - name: mncaatourneycompactresults
+      - name: mncaatourneydetailedresults
+      - name: mncaatourneyseedroundslots
+      - name: mncaatourneyseeds
+      - name: mncaatourneyslots
+      - name: mteams
+      - name: mteamspellings
+      - name: mteamconferences
+      - name: mteamcoaches
+      - name: msecondarytourneyteams
+      - name: mseasons
+      - name: mregularseasondetailedresults
+      - name: msecondarytourneycompactresults
