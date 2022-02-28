@@ -9,5 +9,7 @@ Repo Includes:
  - Adding additional data from [Ken Pomeroy's site](https://kenpom.com/index.php?y=2002)
  
  References:
- [Using Biquery API](https://cloud.google.com/bigquery/docs/quickstarts/quickstart-client-libraries)
- [Biquery python client](https://googleapis.dev/python/bigquery/latest/generated/google.cloud.bigquery.client.Client.html)
+ - [Using Biquery
+   API](https://cloud.google.com/bigquery/docs/quickstarts/quickstart-client-libraries)
+- [Biquery python
+   client](https://googleapis.dev/python/bigquery/latest/generated/google.cloud.bigquery.client.Client.html)
