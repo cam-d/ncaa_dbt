@@ -6,6 +6,7 @@ WITH base AS (
         , team_a
         , team_b
         , team_a_win
+        , tourney_type
     FROM {{ ref('features_base') }} AS base 
 )
 
@@ -87,7 +88,7 @@ SELECT
     , {{ col_diff(col, 'r') }}
     {% endfor %}
 
-    {% for col in wins_cols %}
+    {% for col in win_cols %}
     , {{ col_diff(col, 'w') }}
     {% endfor %}
     -- , a_stats.*

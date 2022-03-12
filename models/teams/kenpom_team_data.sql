@@ -1,5 +1,6 @@
 SELECT 
-    tm.teamid 
+    tm.teamid
+    , tm.kenpom_team
     , k.year
     , k.rank
     , k.wins
