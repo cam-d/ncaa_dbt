@@ -1,0 +1,377 @@
+kenpom_team,kaggle_team,teamid
+Savannah St.,savannah st.,1366
+NJIT,njit,1312
+Grambling St.,grambling st.,1212
+Yale,yale,1463
+Princeton,princeton,1343
+Harvard,harvard,1217
+Penn,penn,1335
+Cornell,cornell,1165
+Brown,brown,1135
+Dartmouth,dartmouth,1171
+Columbia,columbia,1162
+Bethune Cookman,Bethune-Cookman,1126
+Maryland Eastern Shore,MD E Shore,1271
+Longwood,longwood,1255
+Marist,marist,1265
+Bryant,bryant,1136
+Centenary,centenary,1147
+Towson,towson,1406
+Iona,iona,1233
+Alcorn St.,alcorn st.,1108
+Binghamton,binghamton,1127
+San Jose St.,san jose st.,1363
+Loyola Marymount,loyola marymount,1258
+Kennesaw St.,kennesaw st.,1244
+Lamar,lamar,1249
+North Carolina A&T,north carolina a&t,1299
+Chicago St.,chicago st.,1152
+Alabama A&M,alabama a&m,1105
+Toledo,toledo,1405
+Mississippi Valley St.,MS Valley St,1290
+Delaware St.,delaware st.,1175
+Colgate,colgate,1159
+Navy,navy,1298
+Winthrop,winthrop,1457
+Gonzaga,gonzaga,1211
+Providence,providence,1344
+Arizona,arizona,1112
+George Washington,george washington,1203
+Murray St.,murray st.,1293
+Baylor,baylor,1124
+Saint Joseph's,saint joseph's,1386
+Stanford,stanford,1390
+Virginia,virginia,1438
+Stephen F. Austin,stephen f. austin,1372
+Kansas,kansas,1242
+Villanova,villanova,1437
+Ohio St.,ohio st.,1326
+San Diego St.,san diego st.,1361
+Syracuse,syracuse,1393
+Kentucky,kentucky,1246
+Wichita St.,wichita st.,1455
+North Carolina,north carolina,1314
+Florida,florida,1196
+Illinois,illinois,1228
+Memphis,memphis,1272
+Howard,howard,1224
+Southern Utah,southern utah,1381
+North Texas,north texas,1317
+Colorado St.,colorado st.,1161
+Houston,houston,1222
+Davidson,davidson,1172
+Utah St.,utah st.,1429
+Duke,duke,1181
+Auburn,auburn,1120
+USC,usc,1425
+Western Kentucky,western kentucky,1443
+Mississippi St.,mississippi st.,1280
+Belmont,belmont,1125
+Pacific,pacific,1334
+South Dakota St.,south dakota st.,1355
+Connecticut,connecticut,1163
+Butler,butler,1139
+Cincinnati,cincinnati,1153
+Oklahoma St.,oklahoma st.,1329
+Northern Iowa,northern iowa,1320
+Maryland,maryland,1268
+Buffalo,buffalo,1138
+UCLA,ucla,1417
+Wisconsin,wisconsin,1458
+Vermont,vermont,1436
+Siena,siena,1373
+St. Bonaventure,st. bonaventure,1382
+Prairie View A&M,prairie view a&m,1341
+Wagner,wagner,1447
+UC Santa Barbara,uc santa barbara,1364
+Wyoming,wyoming,1461
+New Mexico St.,new mexico st.,1308
+Michigan,michigan,1276
+Purdue,purdue,1345
+Abilene Christian,abilene christian,1101
+Holy Cross,holy cross,1221
+Weber St.,weber st.,1451
+Southern Illinois,southern illinois,1356
+Boston College,boston college,1130
+SMU,smu,1374
+Western Michigan,western michigan,1444
+Loyola Chicago,loyola chicago,1260
+Drake,drake,1179
+Central Connecticut,central connecticut,1148
+Bucknell,bucknell,1137
+Pittsburgh,pittsburgh,1338
+Creighton,creighton,1166
+Nevada,nevada,1305
+Saint Mary's,saint mary's,1388
+New Mexico,new mexico,1307
+Missouri,missouri,1281
+Arkansas Little Rock,Ark Little Rock,1114
+Michigan St.,michigan st.,1277
+Wofford,wofford,1459
+Oklahoma,oklahoma,1328
+Tennessee,tennessee,1397
+Middle Tennessee,middle tennessee,1292
+BYU,byu,1140
+Louisville,louisville,1257
+American,american,1110
+Canisius,canisius,1145
+Lafayette,lafayette,1248
+Jackson St.,jackson st.,1238
+UMBC,umbc,1420
+Georgia St.,georgia st.,1209
+Wright St.,wright st.,1460
+Norfolk St.,norfolk st.,1313
+Incarnate Word,incarnate word,1230
+Texas St.,texas st.,1402
+Montana St.,montana st.,1286
+Mercer,mercer,1273
+Boston University,boston university,1131
+Arkansas,arkansas,1116
+Boise St.,boise st.,1129
+Ohio,ohio,1325
+Liberty,liberty,1251
+Dayton,dayton,1173
+Wake Forest,wake forest,1448
+Troy St.,troy st.,1407
+Manhattan,manhattan,1264
+UCF,ucf,1416
+Xavier,xavier,1462
+Hawaii,hawaii,1218
+Milwaukee,milwaukee,1454
+Marquette,marquette,1266
+East Tennessee St.,east tennessee st.,1190
+LIU Brooklyn,liu brooklyn,1254
+Old Dominion,old dominion,1330
+Georgetown,georgetown,1207
+Coastal Carolina,coastal carolina,1157
+North Carolina Central,north carolina central,1300
+Valparaiso,valparaiso,1434
+Kent St.,kent st.,1245
+Washington,washington,1449
+Utah,utah,1428
+Temple,temple,1396
+Chattanooga,chattanooga,1151
+UNC Wilmington,unc wilmington,1423
+UC Irvine,uc irvine,1414
+Notre Dame,notre dame,1323
+Oregon,oregon,1332
+Maine,maine,1263
+Massachusetts,massachusetts,1269
+James Madison,james madison,1241
+Saint Louis,saint louis,1387
+Virginia Tech,virginia tech,1439
+Marshall,marshall,1267
+Missouri St.,missouri st.,1283
+Grand Canyon,grand canyon,1213
+Florida St.,florida st.,1199
+Nicholls St.,nicholls st.,1311
+VCU,vcu,1433
+Birmingham Southern,birmingham southern,1128
+Sam Houston St.,sam houston st.,1358
+Air Force,air force,1102
+Utah Valley St.,utah valley st.,1430
+Texas Tech,texas tech,1403
+UAB,uab,1412
+Eastern Kentucky,eastern kentucky,1184
+Tennessee Tech,tennessee tech,1399
+South Alabama,south alabama,1375
+Montana,montana,1285
+Green Bay,green bay,1453
+Hampton,hampton,1214
+Central Michigan,central michigan,1141
+UC Davis,uc davis,1413
+Tulsa,tulsa,1409
+Texas,texas,1400
+Hofstra,hofstra,1220
+Akron,akron,1103
+Texas A&M Corpus Chris,a&m-corpus christi,1394
+IUPUI,iupui,1237
+North Dakota St.,north dakota st.,1295
+UTEP,utep,1431
+Stony Brook,stony brook,1392
+Alabama,alabama,1104
+Texas A&M,texas a&m,1401
+George Mason,george mason,1206
+Oral Roberts,oral roberts,1331
+Louisiana Tech,louisiana tech,1256
+Monmouth,monmouth,1284
+Louisiana Lafayette,louisiana-lafayette,1418
+Illinois St.,illinois st.,1229
+LSU,lsu,1261
+Drexel,drexel,1180
+Indiana,indiana,1231
+Miami FL,miami fl,1274
+Southern Miss,southern miss,1379
+UNC Greensboro,unc greensboro,1422
+UNLV,unlv,1424
+West Virginia,west virginia,1452
+Delaware,delaware,1174
+Florida Gulf Coast,florida gulf coast,1195
+Santa Clara,santa clara,1365
+Gardner Webb,gardner webb,1205
+UC Riverside,uc riverside,1415
+Bellarmine,bellarmine,1468
+Morgan St.,morgan st.,1288
+Clemson,clemson,1155
+Eastern Washington,eastern washington,1186
+Georgia,georgia,1208
+Cleveland St.,cleveland st.,1156
+College of Charleston,college of charleston,1158
+Fresno St.,fresno st.,1201
+Austin Peay,austin peay,1122
+Iowa,iowa,1234
+Georgia Southern,georgia southern,1204
+Charlotte,charlotte,1150
+Seattle,seattle,1370
+San Francisco,san francisco,1362
+Morehead St.,morehead st.,1287
+Illinois Chicago,ill-chicago,1227
+Long Beach St.,long beach st.,1253
+VMI,vmi,1440
+Appalachian St.,appalachian st.,1111
+Northern Colorado,northern colorado,1294
+Fairfield,fairfield,1193
+Furman,furman,1202
+Northwestern St.,northwestern st.,1322
+Washington St.,washington st.,1450
+Vanderbilt,vanderbilt,1435
+Robert Morris,robert morris,1352
+Rhode Island,rhode island,1348
+Lehigh,lehigh,1250
+Kansas St.,kansas st.,1243
+Iowa St.,iowa st.,1235
+Richmond,richmond,1350
+Lipscomb,lipscomb,1252
+Albany,albany,1107
+Duquesne,duquesne,1182
+LIU,LIU Brooklyn,1254
+Merrimack,merrimack,1467
+Sacred Heart,sacred heart,1357
+Northeastern,northeastern,1318
+Elon,elon,1189
+New Hampshire,new hampshire,1306
+Hartford,hartford,1216
+Cal St. Fullerton,cal st. fullerton,1168
+Georgia Tech,georgia tech,1210
+Louisiana,la.-lafayette,1418
+Texas Southern,texas southern,1411
+Seton Hall,seton hall,1371
+TCU,tcu,1395
+Jacksonville St.,jacksonville st.,1240
+Portland St.,portland st.,1340
+Utah Valley,utah valley,1430
+Jacksonville,jacksonville,1239
+McNeese St.,mcneese st.,1270
+Southeastern Louisiana,southeastern louisiana,1368
+Pepperdine,pepperdine,1337
+California,california,1143
+Denver,denver,1176
+Western Illinois,western illinois,1442
+Idaho,idaho,1225
+Bowling Green,bowling green,1132
+Colorado,colorado,1160
+UT Arlington,ut arlington,1426
+Loyola MD,loyola md,1259
+Cal St. Bakersfield,CS Bakersfield,1167
+Charleston,charleston,1158
+South Carolina,south carolina,1376
+Evansville,evansville,1191
+Oakland,oakland,1324
+Niagara,niagara,1310
+South Dakota,south dakota,1377
+Northern Kentucky,northern kentucky,1297
+Mississippi,mississippi,1279
+UC San Diego,uc san diego,1471
+William & Mary,william & mary,1456
+UT Rio Grande Valley,UTRGV,1410
+St. Francis NY,St Francis NY,1383
+UNC Asheville,unc asheville,1421
+Tarleton St.,Tarleton St,1470
+Detroit,detroit,1178
+Army,army,1119
+Florida Atlantic,florida atlantic,1194
+Cal Baptist,cal baptist,1465
+Indiana St.,indiana st.,1232
+Texas Pan American,UTRGV,1410
+Rice,rice,1349
+Arkansas St.,arkansas st.,1117
+Campbell,campbell,1144
+La Salle,la salle,1247
+UTSA,utsa,1427
+Alabama St.,alabama st.,1106
+Troy,troy,1407
+Cal St. Northridge,cal st. northridge,1169
+Samford,samford,1359
+Purdue Fort Wayne,purdue fort wayne,1236
+N.C. State,n.c. state,1301
+DePaul,depaul,1177
+High Point,high point,1219
+Tennessee Martin,TN Martin,1404
+Quinnipiac,quinnipiac,1346
+North Dakota,north dakota,1315
+Rider,rider,1351
+Southern,southern,1380
+IPFW,ipfw,1236
+Minnesota,minnesota,1278
+Arizona St.,arizona st.,1113
+San Diego,san diego,1360
+East Carolina,east carolina,1187
+Miami OH,miami oh,1275
+Mount St. Mary's,mount st. mary's,1291
+Idaho St.,idaho st.,1226
+North Alabama,north alabama,1466
+Saint Peter's,saint peter's,1389
+New Orleans,new orleans,1309
+St. John's,st. john's,1385
+UMKC,umkc,1282
+Northern Illinois,northern illinois,1296
+South Carolina St.,south carolina st.,1354
+Cal Poly,cal poly,1142
+Tennessee St.,tennessee st.,1398
+Northern Arizona,northern arizona,1319
+Portland,portland,1339
+Nebraska Omaha,nebraska omaha,1303
+Bradley,bradley,1133
+Nebraska,nebraska,1304
+Radford,radford,1347
+Penn St.,penn st.,1336
+Fordham,fordham,1200
+SIU Edwardsville,siu edwardsville,1188
+Eastern Michigan,eastern michigan,1185
+Sacramento St.,sacramento st.,1170
+Florida A&M,florida a&m,1197
+UMass Lowell,umass lowell,1262
+Tulane,tulane,1408
+The Citadel,the citadel,1154
+Southwest Texas St.,Texas St,1402
+Youngstown St.,youngstown st.,1464
+Rutgers,rutgers,1353
+Southwest Missouri St.,Missouri St,1283
+Fairleigh Dickinson,fairleigh dickinson,1192
+Louisiana Monroe,ULM,1419
+Eastern Illinois,eastern illinois,1183
+Charleston Southern,charleston southern,1149
+Northwestern,northwestern,1321
+Western Carolina,western carolina,1441
+North Florida,north florida,1316
+Ball St.,ball st.,1123
+USC Upstate,usc upstate,1367
+Dixie St.,Dixie St,1469
+South Florida,south florida,1378
+Coppin St.,coppin st.,1164
+St. Francis PA,St Francis PA,1384
+Oregon St.,oregon st.,1333
+Fort Wayne,fort wayne,1236
+Detroit Mercy,detroit mercy,1178
+Middle Tennessee St.,middle tennessee st.,1292
+Southeast Missouri St.,SE Missouri St,1369
+FIU,fiu,1198
+Arkansas Pine Bluff,Ark Pine Bluff,1115
+Houston Baptist,houston baptist,1223
+Presbyterian,presbyterian,1342
+Little Rock,little rock,1114
+Stetson,stetson,1391
+Central Arkansas,central arkansas,1146
+Winston Salem St.,W Salem St,1445
+Morris Brown,morris brown,1289
+St. Thomas,St Thomas MN,1472
