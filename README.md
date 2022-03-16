@@ -13,3 +13,6 @@ Repo Includes:
    API](https://cloud.google.com/bigquery/docs/quickstarts/quickstart-client-libraries)
 - [Biquery python
    client](https://googleapis.dev/python/bigquery/latest/generated/google.cloud.bigquery.client.Client.html)
+   
+   
+  ![image](https://github.com/cam-d/ncaa_dbt/data_lineage.JPEG)
