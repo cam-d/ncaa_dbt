@@ -14,5 +14,7 @@ Repo Includes:
 - [Biquery python
    client](https://googleapis.dev/python/bigquery/latest/generated/google.cloud.bigquery.client.Client.html)
    
-   
-  ![image](https://github.com/cam-d/ncaa_dbt/data_lineage.JPEG)
+ 
+ #### Data Lineage
+ Using dbt, did joins, aggregations and transforms to get the from source data (in green, Kaggle or Ken Pomery's site) tabular features using for EDA and data science.
+ ![image](https://github.com/cam-d/ncaa_dbt/blob/master/dbt_lineage.JPG)
